@@ -33,6 +33,7 @@
 
 #define RETRY_TIMEOUT 3000
 
+#include "application.h"
 #include <stdlib.h>
 #include "spark_wiring_tcpclient.h"
 #include "spark_wiring_string.h"
